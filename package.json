@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pauldeng/nodejs-coap-pingpong/issues"
   },
-  "homepage": "https://github.com/pauldeng/nodejs-coap-pingpong#readme"
+  "homepage": "https://github.com/pauldeng/nodejs-coap-pingpong#readme",
+  "dependencies": {
+    "coap": "^0.22.0"
+  }
 }
